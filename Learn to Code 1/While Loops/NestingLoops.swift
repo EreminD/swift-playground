@@ -1,4 +1,4 @@
-while !isBlocked |{
+while !isBlocked {
   while !isOnGem {
     moveForward()
   }
